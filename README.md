@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18411
-Fork on GitHub5474
 <h1 align="center">Hi 👋, I'm Hario Saloko</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
