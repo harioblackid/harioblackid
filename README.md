@@ -5,7 +5,7 @@ Fork on GitHub5474
 <h1 align="center">Hi 👋, I'm Hario Saloko</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harioblackid" alt="harioblackid" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=harioblackid)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
